@@ -32,7 +32,7 @@ The second part of the analysis was aimed towards analyzing the outcomes of thea
 
 1. To populate columns related to the outcomes, the following excel formulas were used: 
 
--For first and last rows: 
+- For first and last rows: 
 ```
 =COUNTIFS(Kickstarter!D:D,"X",Kickstarter!F:F,"Y",Kickstarter!R:R,"plays")
 
@@ -41,7 +41,7 @@ X = the numerical criteria (less than/greater or equal to)
 Y = the type of outcomde (successful/failed/canceled)
 ```
 
--For the rest of the rows: 
+- For the rest of the rows: 
 ```
 =COUNTIFS(Kickstarter!D:D,"X",Kickstarter!D:D,"Y",Kickstarter!F:F,"Z",Kickstarter!R:R,"plays")
 
