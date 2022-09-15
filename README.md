@@ -74,7 +74,7 @@ When it comes to the worst month to launch a campaign, December registered the m
 
 Regarding the outcomes based on goals, the goal range of 1000 to 4999 registered the highest number of sucessful campaigns and a success rate of 72.66%. Even though the range of "Less than 1000" had a higher percentage of successful campaigns, the difference is of only 3.15%; choosing a funding goal lesser than $1,000 based solely on the percentage of successful campaigns is not advised. 
 
-The Dataset seems rather robust, however, it would be interesting to have data from more years to see the results of the analysis based on launch date with a broader scope. On another topic, the format in which the original dataset displayed the dates required them to be transofmred to a readable forma.
+The Dataset seems rather robust, however, it would be interesting to have data from more years to see the results of the analysis based on launch date with a broader scope. On another topic, the format in which the original dataset displayed the dates required them to be transofmred to a readable format.
 
-Finally, based on the assumption that not every Kickstarter campaigns end once their goal has been reached, it would be interesting to know the date on which the campaign acheived its funding goal. The ability to obtain the average time that a campaign takes to reach its funding goal would be a valuable insight.
+Finally, based on the assumption that not every Kickstarter campaign ends once their goal has been reached, it would be interesting to know the date on which the campaign acheived its funding goal. The ability to obtain the average time that a campaign takes to reach its funding goal would be valuable.
 
